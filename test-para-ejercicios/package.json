@@ -1,0 +1,11 @@
+{
+  "name": "test-para-ejercicios",
+  "version": "1.0.0",
+  "description": "Test con jest para ejercicios de logica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Figuereo",
+  "license": "MIT"
+}

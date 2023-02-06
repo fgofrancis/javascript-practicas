@@ -1,0 +1,8 @@
+Hoja de manejo de array en javascript
+https://www.neoguias.com/como-encontrar-duplicados-array-javascript/#:~:text=Encuentra%20elementos%20duplicados,igual%20al%20elemento%20al%20actual.
+
+
+** Test ***
+jest para testiar el codigo
+https://jestjs.io/docs/getting-started
+
